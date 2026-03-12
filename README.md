@@ -54,3 +54,4 @@ Once started, the application will:
 - **Main Class:** `keystoretui.App`
 - **TUI Library:** Lanterna
 - **Build Tool:** Gradle
+- **Written by:** Gemini
