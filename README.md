@@ -48,6 +48,7 @@ Once started, the application will:
 1. Prompt for the keystore password.
 2. Display a list of aliases found in the keystore.
 3. Allow you to select an alias to view its certificate details.
+4. Use / to filter the list of certificates.
 
 ## Development
 
